@@ -1,0 +1,2 @@
+# TODO: Delete if switching to db service, i.e. postgres
+Note, this folder exists to mimic the directory where sqlite3 databases will be mounted inside the container
